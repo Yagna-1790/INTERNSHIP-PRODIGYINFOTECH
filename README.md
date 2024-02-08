@@ -1,2 +1,5 @@
-# INTERNSHIP-PRODIGYINFOTECH
-Thrilled to be part of the Prodigy Infotech Internship Program! 🚀 Exploring the intersection of technology and innovation while contributing to impactful projects. 🌐 Excited to learn, collaborate, and grow as a professional in the dynamic world of IT. 💻 Let's code, create, and make a difference together! 
+# Task 1 of Data Science
+---
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+
+Sample Dataset: https://data.worldbank.org/indicator/SP.POP.TOTL
